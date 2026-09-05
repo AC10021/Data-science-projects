@@ -37,7 +37,7 @@ Python, pandas, scikit-learn, category_encoders, LightGBM, XGBoost, matplotlib, 
 ## Files
 
 - `EV_prediction.ipynb` — full analysis notebook
-- `submission.csv` — final Kaggle submission
+- `prediction.csv` — final Kaggle submission
 
 ## Notes
 The `train.csv` and `test.csv` datasets are not included in this repository, due to Kaggle's competition rules. Dataseets can be found in [Kaggle Playground Series S6E9](https://www.kaggle.com/competitions/playground-series-s6e9) to reproduce this notebook.
